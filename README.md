@@ -1,4 +1,4 @@
-# Spring API - Flipkart Demo
+# Spring API
 
 This project is a **Spring Boot** application simulating a basic e-commerce workflow, inspired by **Flipkart**. It demonstrates the implementation of RESTful APIs for key shopping actions like listing products, adding items to a cart, confirming orders, and deleting items. 
 
